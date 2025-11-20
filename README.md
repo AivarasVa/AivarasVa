@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Avark!<br><br>🔭 I’m currently working on landing an entry-level data analyst role and deepening my knowledge in SQL and Python.<br>👯 I’m looking to collaborate on small data projects, dashboards, and open-source analytics tools.<br>🤝 I’m looking for help with growing as a data analyst and building real-world project experience.<br>🌱 I’m currently learning SQL, Python, and data cleaning techniques using Pandas.<br>💬 Ask me about data wrangling, visualization tools, and turning messy data into useful insights.<br>⚡ Fun fact: I track every coffee I drink—one day it’ll become a dataset.
+👋 Hi, I'm Aivaras!<br><br>🔭 I’m currently working on landing an entry-level data analyst role and deepening my knowledge in SQL and Python.<br>👯 I’m looking to collaborate on small data projects, dashboards, and open-source analytics tools.<br>🤝 I’m looking for help with growing as a data analyst and building real-world project experience.<br>🌱 I’m currently learning SQL, Python, and data cleaning techniques using Pandas.<br>💬 Ask me about data wrangling, visualization tools, and turning messy data into useful insights.<br>⚡ Fun fact: I track every coffee I drink—one day it’ll become a dataset.
 
 
 ## 🌐 Socials:
